@@ -1,3 +1,6 @@
+#### UPDATE 2024-02-18: This tool is no longer necessary, you can import blocklists directly into Mastodon in newer versions. From your settings page, go to Moderation -> Federation -> Import. Export your existing blocklist first to get a sample of the format your blocklist should be imported in.
+
+
 This is a tool for bulk blocking federation with Mastodon instances.
 
 ## Setup
